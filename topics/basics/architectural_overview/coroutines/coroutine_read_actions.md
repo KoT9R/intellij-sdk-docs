@@ -8,7 +8,7 @@
 <include from="coroutines_snippets.md" element-id="learnCoroutines"/>
 
 The concept of read/write locks and running blocking and cancellable read actions is explained in the Threading section:
-- [](general_threading_rules.md#read-write-lock)
+- [](general_threading_rules.md#read-actions)
 - [](general_threading_rules.md#read-action-cancellability)
 
 This section explains running read actions (RA) in coroutines specifically.
