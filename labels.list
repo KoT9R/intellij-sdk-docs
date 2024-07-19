@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2000-2024 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
+
 <labels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/labels.xsd">
 
@@ -23,4 +25,5 @@
   <primary-label id="2023.3" short-name="2023.3+" name="2023.3+"/>
   <primary-label id="2024.1" short-name="2024.1+" name="2024.1+"/>
   <primary-label id="2024.2" short-name="2024.2+" name="2024.2+"/>
+  <primary-label id="obsolete-2024.1" name="Obsolete Since 2024.1" short-name="Obsolete" color="red"/>
 </labels>
